@@ -1,6 +1,6 @@
 {
   "name": "react-text-overflow-tooltip",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Show tooltip on text overflow using ReactJS",
   "main": "./lib/react-text-overflow-tooltip.js",
   "scripts": {
